@@ -1,4 +1,5 @@
-📊 Customer Segmentation Analysis (Jupyter Notebook)
+# 📊 Customer Segmentation Analysis (Jupyter Notebook)
+
 This project demonstrates customer segmentation using Python with real-world marketing data. Techniques include:
 
 🎯 Demographic & Behavioral Segmentation
